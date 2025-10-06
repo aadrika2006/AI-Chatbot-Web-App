@@ -26,8 +26,9 @@ This web app allows users to have natural conversations with an intelligent assi
 
 ✅ Text-to-Speech (TTS) playback — optional
 
-🛠️ Tech Stack
-Layer	Technology
+
+🛠️ Tech Stack Layer	Technology
+
 💻 Frontend	React + Vite + TailwindCSS + Framer Motion
 
 ⚙️ Backend	Node.js + Express
