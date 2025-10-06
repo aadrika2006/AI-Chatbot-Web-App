@@ -11,21 +11,33 @@ This web app allows users to have natural conversations with an intelligent assi
 ✨ Features
 
 ✅ Real-time AI responses powered by OpenAI GPT API
+
 ✅ Typing animation while waiting for reply
+
 ✅ Chat history persistence in localStorage
+
 ✅ Simple login / guest mode
+
 ✅ Responsive glassmorphism UI with gradients and animations
+
 ✅ Dark/Light mode toggle
+
 ✅ Voice Input (SpeechRecognition API) — optional
+
 ✅ Text-to-Speech (TTS) playback — optional
 
 🛠️ Tech Stack
 Layer	Technology
 💻 Frontend	React + Vite + TailwindCSS + Framer Motion
+
 ⚙️ Backend	Node.js + Express
+
 🧠 AI	OpenAI API (gpt-3.5-turbo or Hugging Face)
+
 🎨 Design	Glassmorphism + Gradient UI
+
 🔊 Optional	SpeechRecognition API (voice input) + SpeechSynthesis API (TTS)
+
 🚀 Getting Started
 
 Follow these steps to run the project locally.
